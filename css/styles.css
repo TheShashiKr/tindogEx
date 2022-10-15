@@ -87,8 +87,8 @@ h2{
 }
 #pricing{
     padding-top: 100px;
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-left: 10%;
+    padding-right: 10%;
 }
 .pricingcol{
     padding: 3% 2%;
@@ -100,8 +100,8 @@ h2{
     background-color: #ff4c68;
     padding-top: 60px;
     padding-bottom: 80px;
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-left: 10%;
+    padding-right: 10%;
     text-align: center;
     color: white;
 }
@@ -138,9 +138,13 @@ h2{
     #title h1{
         font-size: 2.3rem;
         font-weight: 700;
+        margin-left: 1rem;
     }
     .navbar-brand{
         font-size: 30px;
+    }
+    #pricing h2{
+        font-size: 25px;
     }
 
 }
